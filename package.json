@@ -1,5 +1,5 @@
 {
-  "name": "dasher",
+  "name": "dasherino",
   "version": "1.0.0",
   "description": "This package makes it possible to put dashes between letters of a string",
   "main": "dash.js",
