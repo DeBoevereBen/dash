@@ -1,0 +1,23 @@
+{
+  "name": "dasher",
+  "version": "1.0.0",
+  "description": "This package makes it possible to put dashes between letters of a string",
+  "main": "dash.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeBoevereBen/dash.git"
+  },
+  "keywords": [
+    "dash",
+    "string"
+  ],
+  "author": "Ben De Boevere",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeBoevereBen/dash/issues"
+  },
+  "homepage": "https://github.com/DeBoevereBen/dash#readme"
+}
