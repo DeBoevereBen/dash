@@ -5,7 +5,7 @@ With this npm package you can put dashed between letters in a string.
 ## Usage
 
 ```javascript
-    const dasherino = require("dasherino")
+    require("dasherino");
 
     const string = "dasherino";
     const dashed = string.dash();
@@ -17,6 +17,7 @@ With this npm package you can put dashed between letters in a string.
 ```
 output:
 ```
+    original: dasherino
     dashed: d-a-s-h-e-r-i-n-o
     undashed: dasherino
 ```
