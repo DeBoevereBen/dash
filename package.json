@@ -1,6 +1,6 @@
 {
   "name": "dasherino",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This package makes it possible to put dashes between letters of a string",
   "main": "dash.js",
   "scripts": {
